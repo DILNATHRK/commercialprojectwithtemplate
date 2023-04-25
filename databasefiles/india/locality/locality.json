@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "6423f53d7ef4367f79604395"
+  },
+  "city_id": {
+    "$oid": "6423f49f7ef4367f79604394"
+  },
+  "locality_name": "mavoor"
+}]

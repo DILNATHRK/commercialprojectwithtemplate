@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "6423f3367ef4367f79604392"
+  },
+  "country_name": "india",
+  "currency_name": "rupee",
+  "currency_symbol": "₹"
+}]

@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6423f42c7ef4367f79604393"
+  },
+  "country_id": {
+    "$oid": "6423f3367ef4367f79604392"
+  },
+  "state_name": "kerala",
+  "state_languague": "malayalam"
+}]

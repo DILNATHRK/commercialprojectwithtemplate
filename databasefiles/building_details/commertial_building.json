@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6422d8612ed67746780749f2"
+  },
+  "name": "Vaswani Augusta",
+  "location": "Domlur",
+  "availability_for": "Lease",
+  "completion_status": "Ready to move",
+  "furnishing_status": "Furnished",
+  "no_of_floor": "3",
+  "parking": "yes",
+  "lift": "yes",
+  "oc": "yes",
+  "overlooking": "City View",
+  "completed_address": "Khatha No. 1030/299/184/1 Challaghatta Village, Embassy Golf Links Road, Bengaluru, Karnataka",
+  "latitude": "",
+  "longitude": "",
+  "project_image": [
+    {
+      "main_image": "",
+      "sub_image": [
+        {
+          "sub_image_name": "C:UsersUserDesktopproject_imagecommertial_buildingimages"
+        }
+      ]
+    }
+  ],
+  "attached_tags_id": [
+    {
+      "id": ""
+    }
+  ]
+}]
